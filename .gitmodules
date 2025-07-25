@@ -1,0 +1,4 @@
+[submodule "modules/nyl-foundation"]
+	path = modules/nyl-foundation
+	url = https://github.com/anroy90/nylcom.git
+	branch = main
