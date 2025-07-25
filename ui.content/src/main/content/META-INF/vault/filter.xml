@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aggregator-project" mode="merge"/>
+    <filter root="/content/aggregator-project" mode="merge"/>
+    <filter root="/content/dam/aggregator-project" mode="merge">
+        <exclude pattern="/content/dam/aggregator-project(/.*)?"/>
+        <include pattern="/content/dam/aggregator-project/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/aggregator-project/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/aggregator-project" mode="merge"/>
+</workspaceFilter>
