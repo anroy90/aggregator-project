@@ -2,3 +2,7 @@
 	path = modules/nyl-foundation
 	url = https://github.com/anroy90/nyl-foundation.git
 	branch = main
+[submodule "modules/nylim"]
+	path = modules/nylim
+	url = https://github.com/anroy90/nylim.git
+	branch = main
