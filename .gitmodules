@@ -6,3 +6,7 @@
 	path = modules/nylim
 	url = https://github.com/anroy90/nylim.git
 	branch = main
+[submodule "modules/nylcom"]
+	path = modules/nylcom
+	url = https://github.com/anroy90/nylcom.git
+	branch = main
